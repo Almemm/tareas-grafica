@@ -17,6 +17,8 @@ Bitácora de trabajo:
 
 ![alt text](<imagenes/Libreta.jpeg>)
 
+
+
 ## Comentarios ejercicio 4 
 
 Bitácora de trabajo: 
@@ -36,5 +38,6 @@ Bitácora de trabajo:
 13. Al darle "play" me preguntó la edad y si me gustaba la música urbana 
 14. Completé los datos y me dio el resultado (mayor/no le gusta la música urbana)
 15. Copié todo en otro recuadro y cambié las respuestas para tener otro resultado (mayor/sí le gusta la música urbana)
+
 
 ![alt text](<imagenes/Chat_gpt.png>)
