@@ -34,7 +34,7 @@ Bitácora de trabajo:
 11. Salió un código larguísimo y no se parece mucho a la ayuda 
 12. Copié el "cierre" del ejercicio anterior *print (resultado)*
 13. Al darle "play" me preguntó la edad y si me gustaba la música urbana 
-14. Completé los datos y me dio el resultado 
-15. Copié todo en otro recuadro y cambié las respuestas para tener otro resultado 
+14. Completé los datos y me dio el resultado (mayor/no le gusta la música urbana)
+15. Copié todo en otro recuadro y cambié las respuestas para tener otro resultado (mayor/sí le gusta la música urbana)
 
 ![alt text](<imagenes/Chat_gpt.png>)
