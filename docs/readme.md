@@ -1,4 +1,4 @@
-[Almendra_CV]()
+[Almendra_CV](https://almemm.github.io/tareas-grafica/)
 
 ## Bitácora cv (día 1)
 
